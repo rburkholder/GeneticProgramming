@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "console", "console\console.csproj", "{F25886D2-19C4-4FA0-BDD0-8041670783F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneUnified.GeneticProgramming", "OneUnified.GeneticProgramming\OneUnified.GeneticProgramming.csproj", "{C91EF1A0-6907-4FE6-A51B-E840E65FB37E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneUnified.GP.UI", "UI\OneUnified.GP.UI.csproj", "{03BDDA65-33E0-4853-8301-EF783154E1D1}"
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 3
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = OneUnified.GeneticProgramming\\OneUnified.GeneticProgramming.csproj
+		SccLocalPath1 = .
+		SccProjectFilePathRelativizedFromConnection1 = OneUnified.GeneticProgramming\\
+		SccProjectUniqueName2 = UI\\OneUnified.GP.UI.csproj
+		SccLocalPath2 = .
+		SccProjectFilePathRelativizedFromConnection2 = UI\\
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F25886D2-19C4-4FA0-BDD0-8041670783F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F25886D2-19C4-4FA0-BDD0-8041670783F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F25886D2-19C4-4FA0-BDD0-8041670783F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F25886D2-19C4-4FA0-BDD0-8041670783F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C91EF1A0-6907-4FE6-A51B-E840E65FB37E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C91EF1A0-6907-4FE6-A51B-E840E65FB37E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C91EF1A0-6907-4FE6-A51B-E840E65FB37E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C91EF1A0-6907-4FE6-A51B-E840E65FB37E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03BDDA65-33E0-4853-8301-EF783154E1D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03BDDA65-33E0-4853-8301-EF783154E1D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03BDDA65-33E0-4853-8301-EF783154E1D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03BDDA65-33E0-4853-8301-EF783154E1D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
